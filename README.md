@@ -14,6 +14,7 @@ From the output of Deeplabv3 semantics segmentation algorithm, we find the locat
 - Rename the folder `keras-deeplab-v3-plus` to just `deeplab`
 - Then, take a photo of your background, and name it background.jpg and put it in img/ folder
 - Run `python -m main`
+- Press "t" on your keyboard to toggle between invisibility! 
 - Have fun!
 
 <a href="https://youtu.be/Toqxrv1S-qo" title="Magic Trick with Computer Vision">
